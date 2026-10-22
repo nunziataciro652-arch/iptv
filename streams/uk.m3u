@@ -237,6 +237,8 @@ https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8
 http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+#EXTINF:-1 tvg-id="SkyKids.uk@HD",Sky Kids (1080p)
+http://etvhosts.site:55337/live/littlespiked/cam1gail2brian3/57527.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk@SD",Space Live powered by sen (1080p)
